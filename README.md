@@ -17,6 +17,8 @@ This project is a web application that detects diseases in potato leaves using a
 - Input shape: 256x256x3 RGB images
 - Output: 3 classes (Early Blight, Late Blight, Healthy)
 
+![Alt text](flowchart.png)
+
 ### Training
 - Number of training images: 2152
 - Image preprocessing: Resizing to 256x256, Rescaling pixel values to 0-1 range
