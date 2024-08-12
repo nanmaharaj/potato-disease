@@ -53,10 +53,6 @@ This project is a web application that detects diseases in potato leaves using a
    streamlit run app.py
    ```
 
-## Model
-
-The model used is a Convolutional Neural Network (CNN) trained on a dataset of potato leaf images to identify Early Blight, Late Blight, and Healthy leaves.
-
 ## Technologies Used
 
 - Streamlit: For building the web application interface.
