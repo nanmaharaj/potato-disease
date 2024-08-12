@@ -2,12 +2,6 @@
 
 This project is a web application that detects diseases in potato leaves using a Convolutional Neural Network (CNN) model. The application is built using Streamlit and TensorFlow, and it can classify potato leaf images into three categories: Early Blight, Late Blight, or Healthy. Additionally, it provides remedy suggestions based on the detected disease.
 
-## Features
-
-- **Image Upload**: Users can upload images of potato leaves for classification.
-- **Disease Prediction**: The model predicts whether the leaf has Early Blight, Late Blight, or is Healthy.
-- **Remedy Suggestions**: For diseased leaves, the app provides actionable remedies to manage the disease.
-
 ## How It Works
 
 1. **Upload Image**: The user uploads an image of a potato leaf.
