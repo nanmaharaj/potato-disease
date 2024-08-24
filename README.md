@@ -34,15 +34,15 @@ This project is a web application that detects diseases in potato leaves using a
 - Loss on test set: 0.0410
 
 ### Model Size
-- Number of parameters: 183,747
+- Number of parameters: 1,83,747
 - Model file size: 2.3 MB
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/potato-leaf-disease-detection.git
-   cd potato-leaf-disease-detection
+   git clone https://github.com/nanmaharaj/potato-disease.git
+   cd potato-disease
    ```
 
 2. Install the required packages:
