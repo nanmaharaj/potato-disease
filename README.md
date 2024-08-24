@@ -35,7 +35,7 @@ This project is a web application that detects diseases in potato leaves using a
 
 ### Model Size
 - Number of parameters: 1,83,747
-- Model file size: 2.3 MB
+- Model file size: 4.45 MB
 
 ## Installation
 
